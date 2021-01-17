@@ -1,0 +1,12 @@
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Services\bin\Debug\netcoreapp3.1\Services.dll
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Services\bin\Debug\netcoreapp3.1\Services.pdb
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Services\bin\Debug\netcoreapp3.1\Data.dll
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Services\bin\Debug\netcoreapp3.1\Data.pdb
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Services\obj\Debug\netcoreapp3.1\Services.dll
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Services\obj\Debug\netcoreapp3.1\Services.pdb

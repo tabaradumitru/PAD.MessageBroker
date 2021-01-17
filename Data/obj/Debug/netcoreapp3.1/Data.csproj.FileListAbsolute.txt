@@ -1,0 +1,9 @@
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\university\ANUL 5\SEMESTRUL 1\PAD - Programarea Aplicatiilor Distribuite\Laboratoare\Laboratorul 2\Message Broker\Data\obj\Debug\netcoreapp3.1\Data.pdb
